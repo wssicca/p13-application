@@ -1,0 +1,11 @@
+{
+    "require": {
+        "p13/core": "*"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:wssicca/p13.core.git"
+        }
+    ]
+}
